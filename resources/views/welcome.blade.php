@@ -401,10 +401,10 @@
                                         <div class="portfolio-grid three-columns">
                                             <figure class="item lbaudio"
                                                     data-groups='["category_all", "category_mockups"]'>
-                                                <div class="portfolio-item-img"><img src="/images/quizcarnival.png"
+                                                <div class="portfolio-item-img"><img src="/images/quizcarnival.jpg"
                                                                                      alt="Learning Management System"
                                                                                      title=""/>
-                                                    <a href="/images/quizcarnival.png"
+                                                    <a href="/images/quizcarnival.jpg"
                                                        class="lightbox mfp-iframe" title="Quiz Carnival"></a></div>
                                                 <i class="fa fa-volume-up"></i> <h4 class="name">Learning Management
                                                     System</h4>
@@ -412,22 +412,26 @@
                                                     <a target="_blank"
                                                        href="https://quizcarnival.com/">Quiz Carnival</a>
                                                 </span></figure>
-                                            <figure class="item standard"
-                                                    data-groups='["category_all", "category_soundcloud"]'>
-                                                <div class="portfolio-item-img"><img src="/images/ruchi.png"
-                                                                                     alt="Media Project 2" title=""/> <a
-                                                        href="/images/ruchi.png" class="ajax-page-load"></a></div>
-                                                <i class="far fa-file-alt"></i> <h4 class="name">
-                                                    <a target="_blank" href="https://ruchiexplorelimitless.com/">Ruchi
-                                                        Explore Limitless</a></h4>
+                                            <figure class="item lbaudio"
+                                                    data-groups='["category_all", "category_soundcloud""]'>
+                                                <div class="portfolio-item-img"><img src="/images/ruchi.jpg"
+                                                                                     alt="Ruchi
+                                                        Explore Limitless"
+                                                                                     title=""/>
+                                                    <a href="/images/ruchi.jpg"
+                                                       class="lightbox mfp-iframe" title="Quiz Carnival"></a></div>
+                                                <i class="fa fa-volume-up"></i> <h4 class="name">Ruchi
+                                                    Explore Limitless</h4>
                                                 <span class="category">
-                                                    Tour Guide
+                                                    <a target="_blank"
+                                                       href="https://ruchiexplorelimitless.com/">Ruchi</a>
                                                 </span></figure>
+
                                             <figure class="item lbvideo"
                                                     data-groups='["category_all", "category_media"]'>
-                                                <div class="portfolio-item-img"><img src="/images/martvenue.png"
+                                                <div class="portfolio-item-img"><img src="/images/martvenue.jpg"
                                                                                      alt="MartVenue" title=""/> <a
-                                                        href="/images/martvenue.png"
+                                                        href="/images/martvenue.jpg"
                                                         class="lightbox mfp-iframe" title="Vimeo Video 1"></a></div>
                                                 <i class="fas fa-video"></i> <h4 class="name"><a href="https://martvenue.com/" target="_blank">
                                                         MartVenue
@@ -435,14 +439,14 @@
                                                     class="category">Ecommerce</span></figure>
                                             <figure class="item standard"
                                                     data-groups='["category_all", "category_media"]'>
-                                                <div class="portfolio-item-img"><img src="/images/firebox.png"
+                                                <div class="portfolio-item-img"><img src="/images/firebox.jpg"
                                                                                      alt="Firebox" title=""/> <a
-                                                        href="/images/firebox.png" class="ajax-page-load"></a></div>
+                                                        href="/images/firebox.jpg" class="ajax-page-load"></a></div>
                                                 <i class="far fa-file-alt"></i> <h4 class="name">Firebox</h4>
                                                 <span class="category">Ecommerce</span></figure>
                                             <figure class="item lbimage"
                                                     data-groups='["category_all", "category_media"]'>
-                                                <div class="portfolio-item-img"><img src="/images/kenarhat.png"
+                                                <div class="portfolio-item-img"><img src="/images/kenarhat.jpg"
                                                                                      alt="Kenarhat" title=""/> <a
                                                         class="lightbox" title="Mockup Design 1"
                                                         href="images/portfolio/5.jpg"></a></div>
@@ -450,33 +454,33 @@
                                                     class="category">Ecommerce</span></figure>
                                             <figure class="item lbvideo"
                                                     data-groups='["category_all", "category_vimeo-videos"]'>
-                                                <div class="portfolio-item-img"><img src="/images/zsc.png"
+                                                <div class="portfolio-item-img"><img src="/images/zsc.jpg"
                                                                                      alt="ZSC Enterprise" title=""/> <a
-                                                        href="/images/zsc.png"
+                                                        href="/images/zsc.jpg"
                                                         class="lightbox mfp-iframe" title="ZSC Enterprise"></a></div>
                                                 <i class="fas fa-video"></i> <h4 class="name">ZSC Enterprise</h4> <span
                                                     class="category">Website</span></figure>
                                             <figure class="item lbvideo"
                                                     data-groups='["category_all", "category_vimeo-videos"]'>
-                                                <div class="portfolio-item-img"><img src="/images/military.png"
+                                                <div class="portfolio-item-img"><img src="/images/military.jpg"
                                                                                      alt="Bangabandhu Military Museum" title=""/> <a
-                                                        href="/images/military.png"
+                                                        href="/images/military.jpg"
                                                         class="lightbox mfp-iframe" title="Bangabandhu Military Museum"></a></div>
                                                 <i class="fas fa-video"></i> <h4 class="name">Bangabandhu Military Museum</h4> <span
                                                     class="category">Website</span></figure>
                                             <figure class="item lbvideo"
                                                     data-groups='["category_all", "category_vimeo-videos"]'>
-                                                <div class="portfolio-item-img"><img src="/images/eventtech.png"
+                                                <div class="portfolio-item-img"><img src="/images/eventtech.jpg"
                                                                                      alt="Eventtech Bd" title=""/> <a
-                                                        href="/images/eventtech.png"
+                                                        href="/images/eventtech.jpg"
                                                         class="lightbox mfp-iframe" title="Eventtech Bd"></a></div>
                                                 <i class="fas fa-video"></i> <h4 class="name">Eventtech Bd</h4> <span
                                                     class="category">Website</span></figure>
                                             <figure class="item lbvideo"
                                                     data-groups='["category_all", "category_vimeo-videos"]'>
-                                                <div class="portfolio-item-img"><img src="/images/kitefest.png"
+                                                <div class="portfolio-item-img"><img src="/images/kitefest.jpg"
                                                                                      alt="Eventtech Bd" title=""/> <a
-                                                        href="/images/kitefest.png"
+                                                        href="/images/kitefest.jpg"
                                                         class="lightbox mfp-iframe" title="Kitefest California"></a></div>
                                                 <i class="fas fa-video"></i> <h4 class="name">Kitefest California</h4> <span
                                                     class="category">Website</span></figure>
