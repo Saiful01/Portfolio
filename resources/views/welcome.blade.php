@@ -16,6 +16,13 @@
     <link rel="stylesheet" href="/css/magnific-popup.css" type="text/css">
     <link rel="stylesheet" href="/css/main.css" type="text/css">
     <script src="/js/modernizr.custom.js"></script>
+
+    <meta property="og:image" content="/images/sp_photo.jpg"/>
+    <meta property="og:image:width" content="600"/>
+    <meta property="og:image:height" content="375"/>
+    <meta property="og:title" content="Saiful Islam Portfolio ">
+    <meta property="og:description"
+          content="Saiful Islam Portfolio">
 </head>
 <body>
 <div class="preloader">
@@ -82,12 +89,13 @@
                                                 </div>
                                             </div>
                                             <h2 class="hp-main-title">Saiful Islam</h2>
-                                            <p>Hi, I'm a software engineer specialized in
-                                                both front-end and back-end web development.
-                                                I am an allround web developer. I love structure and order and I also
-                                                stand for quality. I love spending time on fixing little details and
-                                                optimizing web apps. Also I like working in a team, you'll learn faster
-                                                and much more. As the saying goes: 'two heads are better than one'.</br>
+                                            <p>Hi, I'm Saiful a software engineer, specialized in both front-end and
+                                                back-end web development. I am a web developer who love structure and
+                                                order and also stand for quality. I love to spend time on fixing little
+                                                details and optimizing web apps. Also I am very speedy learner and well
+                                                organised to work in a team. I beleive that Team work is much more
+                                                effective than work alone. As the saying goes: 'Two heads are far better
+                                                than one'.</br>
                                                 Have an exceptional {{date('l')}}</p>
                                             <div class="hp-buttons"><a href="/Saiful Islam.pdf" target="_blank"
                                                                        class="btn btn-primary" download="Saiful_islam">Download
@@ -115,13 +123,12 @@
                                                 <div class="info-block-w-icon">
                                                     <div class="ci-icon"><i class="lnr lnr-laptop-phone"></i></div>
                                                     <div class="ci-text"><h4>Web Development</h4>
-                                                        <p>I have working experience in any kind of web development with
-                                                            client requirement</p></div>
+                                                        <p>I have work experience in any kind of web development on the basis of client requirements.
+                                                            </p></div>
                                                 </div>
                                                 <div class="ci-icon"><i class="lnr lnr-store"></i></div>
                                                 <div class="ci-text"><h4>Ecommerce</h4>
-                                                    <p>I have working experience in any kind of ecommerce like single
-                                                        vendor, multi vendor etc</p></div>
+                                                    <p>I have work experience in any kind of ecommerce like single vendor, multi vendor etc.</p></div>
                                             </div>
 
                                         </div>
@@ -133,7 +140,7 @@
                                             <div class="info-block-w-icon">
                                                 <div class="ci-icon"><i class="lnr lnr-laptop-phone"></i></div>
                                                 <div class="ci-text"><h4>Learning Management System</h4>
-                                                    <p>I have working experience in Learning management System</p></div>
+                                                    <p>I have work experience in Learning management System.</p></div>
                                             </div>
 
                                         </div>
@@ -263,7 +270,7 @@
                                                         class="item-company">Qubit Solution</span></div>
                                                 <div class="divider"></div>
                                                 <div class="right-part"><h4 class="item-title">Internship</h4>
-                                                    <p>Six Month internship web development</p></div>
+                                                    <p>Six Month internship in web development</p></div>
                                             </div>
 
                                         </div>
@@ -274,8 +281,7 @@
                                                         class="item-company">Qubit Solution</span></div>
                                                 <div class="divider"></div>
                                                 <div class="right-part"><h4 class="item-title">Junior Web Developer</h4>
-                                                    <p>After Six Month internship i'm working as a junior web developer
-                                                        position. </p></div>
+                                                    <p>After Six Month internship i'm working as a junior web developer position. </p></div>
                                             </div>
 
                                         </div>
@@ -433,9 +439,10 @@
                                                                                      alt="MartVenue" title=""/> <a
                                                         href="/images/martvenue.jpg"
                                                         class="lightbox mfp-iframe" title="Vimeo Video 1"></a></div>
-                                                <i class="fas fa-video"></i> <h4 class="name"><a href="https://martvenue.com/" target="_blank">
+                                                <i class="fas fa-video"></i> <h4 class="name"><a
+                                                        href="https://martvenue.com/" target="_blank">
                                                         MartVenue
-                                                    </a> </h4> <span
+                                                    </a></h4> <span
                                                     class="category">Ecommerce</span></figure>
                                             <figure class="item standard"
                                                     data-groups='["category_all", "category_media"]'>
@@ -463,10 +470,13 @@
                                             <figure class="item lbvideo"
                                                     data-groups='["category_all", "category_vimeo-videos"]'>
                                                 <div class="portfolio-item-img"><img src="/images/military.jpg"
-                                                                                     alt="Bangabandhu Military Museum" title=""/> <a
+                                                                                     alt="Bangabandhu Military Museum"
+                                                                                     title=""/> <a
                                                         href="/images/military.jpg"
-                                                        class="lightbox mfp-iframe" title="Bangabandhu Military Museum"></a></div>
-                                                <i class="fas fa-video"></i> <h4 class="name">Bangabandhu Military Museum</h4> <span
+                                                        class="lightbox mfp-iframe"
+                                                        title="Bangabandhu Military Museum"></a></div>
+                                                <i class="fas fa-video"></i> <h4 class="name">Bangabandhu Military
+                                                    Museum</h4> <span
                                                     class="category">Website</span></figure>
                                             <figure class="item lbvideo"
                                                     data-groups='["category_all", "category_vimeo-videos"]'>
@@ -481,8 +491,10 @@
                                                 <div class="portfolio-item-img"><img src="/images/kitefest.jpg"
                                                                                      alt="Eventtech Bd" title=""/> <a
                                                         href="/images/kitefest.jpg"
-                                                        class="lightbox mfp-iframe" title="Kitefest California"></a></div>
-                                                <i class="fas fa-video"></i> <h4 class="name">Kitefest California</h4> <span
+                                                        class="lightbox mfp-iframe" title="Kitefest California"></a>
+                                                </div>
+                                                <i class="fas fa-video"></i> <h4 class="name">Kitefest California</h4>
+                                                <span
                                                     class="category">Website</span></figure>
                                         </div>
                                     </div>
